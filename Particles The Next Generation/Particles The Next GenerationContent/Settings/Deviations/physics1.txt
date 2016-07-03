@@ -1,0 +1,5 @@
+Massdeviation: 7
+Ttldeviation: 0,5
+Positionxdeviation: 50
+Positionydeviation: 50
+Scaledeviation: 0,5

@@ -1,0 +1,260 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{D1FEBB93-2CD0-4395-A95A-C62303C3C196}</ProjectGuid>
+    <ProjectTypeGuids>{6D335F3A-9D43-41b4-9D22-F6F17C4BE596};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Particles_The_Next_Generation</RootNamespace>
+    <AssemblyName>Particles The Next Generation</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <XnaFrameworkVersion>v4.0</XnaFrameworkVersion>
+    <XnaPlatform>Windows</XnaPlatform>
+    <XnaProfile>Reach</XnaProfile>
+    <XnaCrossPlatformGroupID>96a9659c-9073-4da8-bb4d-52803402e3ab</XnaCrossPlatformGroupID>
+    <XnaOutputType>Game</XnaOutputType>
+    <ApplicationIcon>A Standaard crap\Game.ico</ApplicationIcon>
+    <Thumbnail>A Standaard crap\GameThumbnail.png</Thumbnail>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\Gebruiker\Desktop\Particles TNG\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>14</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\x86\Debug</OutputPath>
+    <DefineConstants>DEBUG;TRACE;WINDOWS</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoStdLib>true</NoStdLib>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <PlatformTarget>x86</PlatformTarget>
+    <XnaCompressContent>false</XnaCompressContent>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\x86\Release</OutputPath>
+    <DefineConstants>TRACE;WINDOWS</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoStdLib>true</NoStdLib>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <PlatformTarget>x86</PlatformTarget>
+    <XnaCompressContent>true</XnaCompressContent>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>8F8B1747D8231E5D768AA79EF2A82700760F46D6</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Particles The Next Generation_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <PropertyGroup>
+    <NoWin32Manifest>true</NoWin32Manifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Xna.Framework, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework.Game, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework.Graphics, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework.GamerServices, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework.Xact, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework.Video, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework.Avatar, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework.Net, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework.Storage, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="mscorlib">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Core">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Net">
+      <Private>False</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Audio Analyzing\ColorManager_Beat.cs" />
+    <Compile Include="Audio Analyzing\FrequencyBandDetector.cs" />
+    <Compile Include="Audio Analyzing\FMOD\fmod.cs" />
+    <Compile Include="Audio Analyzing\FMOD\fmod_dsp.cs" />
+    <Compile Include="Audio Analyzing\FMOD\fmod_errors.cs" />
+    <Compile Include="Audio Analyzing\FMOD\fmod_memoryinfo.cs" />
+    <Compile Include="Audio Analyzing\FMOD_Wrapper.cs" />
+    <Compile Include="Audio Analyzing\HistoryBuffer.cs" />
+    <Compile Include="Audio Analyzing\IBeatDetector.cs" />
+    <Compile Include="Audio Analyzing\SimpleDetector.cs" />
+    <Compile Include="Audio Analyzing\Spectrum.cs" />
+    <Compile Include="Creat particle systems.cs" />
+    <Compile Include="Cursor.cs" />
+    <Compile Include="Menu\Items\Concrete Items\BackButton.cs" />
+    <Compile Include="Menu\Items\InputTakers\CheckBox.cs" />
+    <Compile Include="Menu\Items\Concrete Items\MenuItem_GravityStrengthText.cs" />
+    <Compile Include="Menu\Items\Virtual Items\MenuItemTextBox.cs" />
+    <Compile Include="Menu\Items\Concrete Items\MenuItem_GravityStrength.cs" />
+    <Compile Include="Menu\Items\Concrete Items\GravityWellSlider.cs" />
+    <Compile Include="Menu\Items\Concrete Items\MenuItem_PosXDeviation.cs" />
+    <Compile Include="Menu\Items\Concrete Items\MenuItem_PosYDeviation.cs" />
+    <Compile Include="Menu\Items\Concrete Items\MenuItem_Windstrength.cs" />
+    <Compile Include="Menu\Items\InputTakers\SlideBar.cs" />
+    <Compile Include="Menu\Items\InputTakers\TextBox.cs" />
+    <Compile Include="Menu\Menu.cs" />
+    <Compile Include="Menu\Submenus\SubMenu_Gravity.cs" />
+    <Compile Include="Menu\Submenus\SubMenu_PosDeviation.cs" />
+    <Compile Include="Menu\Submenus\SubMenu_Wind.cs" />
+    <Compile Include="Physics\Collisions\CollidableBox.cs" />
+    <Compile Include="Physics\Collisions\CollidableObjectManager.cs" />
+    <Compile Include="Interfaces\ICollidableObject.cs" />
+    <Compile Include="Physics\Collisions\CollisionGridManager.cs" />
+    <Compile Include="Physics\Doodats\Explosion.cs" />
+    <Compile Include="Physics\Doodats\ExplosionManager.cs" />
+    <Compile Include="Physics\Doodats\GravWellContainer.cs" />
+    <Compile Include="Physics\Doodats\Implosion.cs" />
+    <Compile Include="Physics\Doodats\Properties\Dragging.cs" />
+    <Compile Include="Physics\Doodats\Properties\DragManager.cs" />
+    <Compile Include="Physics\Doodats\Singularity.cs" />
+    <Compile Include="Physics\ForceGrid.cs" />
+    <Compile Include="Physics\Particles\MusicParticle.cs" />
+    <Compile Include="Physics\PParticleFactory.cs" />
+    <Compile Include="Physics\Doodats\Vortex.cs" />
+    <Compile Include="Physics\Property Containers\BaseParticleProperties.cs" />
+    <Compile Include="Physics\Property Containers\DeviationProperties.cs" />
+    <Compile Include="Physics\Systems\Physics System Input.cs" />
+    <Compile Include="Physics\Systems\Physics System Loading.cs" />
+    <Compile Include="Player\EarthShatter.cs" />
+    <Compile Include="Player\Player.cs" />
+    <Compile Include="Player\Nozzle.cs" />
+    <Compile Include="Static\BPM.cs" />
+    <Compile Include="Static\Equalizer.cs" />
+    <Compile Include="Static\FileBrowser.cs" />
+    <Compile Include="Static\Global.cs" />
+    <Compile Include="Non-physics\Systems\Gravity System.cs" />
+    <Compile Include="Non-physics\Particles\GravityParticle.cs" />
+    <Compile Include="Physics\Doodats\GravityWell.cs" />
+    <Compile Include="Static\Input.cs" />
+    <Compile Include="Interfaces\IParticle.cs" />
+    <Compile Include="Interfaces\IParticleSystem.cs" />
+    <Compile Include="Interfaces\IPhysicsParticle.cs" />
+    <Compile Include="Interfaces\IPhysicsParticleSystem.cs" />
+    <Compile Include="Menu\Submenus\SubMenu.cs" />
+    <Compile Include="Menu\Items\Virtual Items\MenuItem.cs" />
+    <Compile Include="Menu\Items\Virtual Items\MenuItemBar.cs" />
+    <Compile Include="Physics\Systems\Physics System.cs" />
+    <Compile Include="Physics\Particles\PhysicsParticle.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="A Standaard crap\Program.cs" />
+    <Compile Include="Game1.cs" />
+    <Compile Include="Non-physics\Systems\Simple System.cs" />
+    <Compile Include="Non-physics\Particles\SimpleParticle.cs" />
+    <Compile Include="Non-physics\Systems\TextureSystem.cs" />
+    <Compile Include="Static\MediaManager.cs" />
+    <Compile Include="Static\PhysicsProperties.cs" />
+    <Compile Include="Static\StringDrawer.cs" />
+    <Compile Include="Static\Utility.cs" />
+    <Compile Include="Physics\Doodats\WindInput.cs" />
+    <Compile Include="Tester.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="A Standaard crap\Game.ico" />
+    <Content Include="A Standaard crap\GameThumbnail.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Particles The Next GenerationContent\Particles The Next GenerationContent.contentproj">
+      <Name>Particles_The_Next_GenerationContent</Name>
+      <XnaReferenceType>Content</XnaReferenceType>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Xna.Framework.4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft XNA Framework Redistributable 4.0</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\XNA Game Studio\Microsoft.Xna.GameStudio.targets" />
+  <!--
+      To modify your build process, add your task inside one of the targets below and uncomment it. 
+      Other similar extension points exist, see Microsoft.Common.targets.
+      <Target Name="BeforeBuild">
+      </Target>
+      <Target Name="AfterBuild">
+      </Target>
+    -->
+</Project>

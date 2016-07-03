@@ -1,0 +1,460 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Particles\simple.png</Source>
+      <Name>Particles\simple</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\Portfolio\Particles\Particles The Next Generation\Particles The Next Generation\bin\x86\Debug\Content\Particles\simple.xnb</Output>
+      <Time>2014-04-21T09:21:40.2223449+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Doodats\well.png</Source>
+      <Name>Doodats\well</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\Portfolio\Particles\Particles The Next Generation\Particles The Next Generation\bin\x86\Debug\Content\Doodats\well.xnb</Output>
+      <Time>2014-04-21T09:21:40.2623472+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Particles\simple2.png</Source>
+      <Name>Particles\simple2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\Portfolio\Particles\Particles The Next Generation\Particles The Next Generation\bin\x86\Debug\Content\Particles\simple2.xnb</Output>
+      <Time>2014-04-21T09:21:40.2233449+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Items\Windinput\wind_deselected.png</Source>
+      <Name>Menu\Items\Windinput\wind_deselected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\Portfolio\Particles\Particles The Next Generation\Particles The Next Generation\bin\x86\Debug\Content\Menu\Items\Windinput\wind_deselected.xnb</Output>
+      <Time>2014-04-21T09:21:40.049335+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Items\Windinput\wind_selected.png</Source>
+      <Name>Menu\Items\Windinput\wind_selected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\Portfolio\Particles\Particles The Next Generation\Particles The Next Generation\bin\x86\Debug\Content\Menu\Items\Windinput\wind_selected.xnb</Output>
+      <Time>2014-04-21T09:21:40.0543353+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Overlays\menu_overlay.png</Source>
+      <Name>Menu\Overlays\menu_overlay</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\Portfolio\Particles\Particles The Next Generation\Particles The Next Generation\bin\x86\Debug\Content\Menu\Overlays\menu_overlay.xnb</Output>
+      <Time>2014-04-21T09:21:40.1773423+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Items\Windinput\wind_marker.png</Source>
+      <Name>Menu\Items\Windinput\wind_marker</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\Portfolio\Particles\Particles The Next Generation\Particles The Next Generation\bin\x86\Debug\Content\Menu\Items\Windinput\wind_marker.xnb</Output>
+      <Time>2014-04-21T09:21:40.0513351+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Particles\simple3.png</Source>
+      <Name>Particles\simple3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\Portfolio\Particles\Particles The Next Generation\Particles The Next Generation\bin\x86\Debug\Content\Particles\simple3.xnb</Output>
+      <Time>2014-04-21T09:21:40.2093441+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Particles\simple4.png</Source>
+      <Name>Particles\simple4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\Portfolio\Particles\Particles The Next Generation\Particles The Next Generation\bin\x86\Debug\Content\Particles\simple4.xnb</Output>
+      <Time>2014-04-21T09:21:40.2113443+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Particles\simple5.png</Source>
+      <Name>Particles\simple5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\Portfolio\Particles\Particles The Next Generation\Particles The Next Generation\bin\x86\Debug\Content\Particles\simple5.xnb</Output>
+      <Time>2014-04-21T09:21:40.2123443+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Particles\simple6.png</Source>
+      <Name>Particles\simple6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\Portfolio\Particles\Particles The Next Generation\Particles The Next Generation\bin\x86\Debug\Content\Particles\simple6.xnb</Output>
+      <Time>2014-04-21T09:21:40.2143444+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Particles\simple7.png</Source>
+      <Name>Particles\simple7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\Portfolio\Particles\Particles The Next Generation\Particles The Next Generation\bin\x86\Debug\Content\Particles\simple7.xnb</Output>
+      <Time>2014-04-21T09:21:40.2153445+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Particles\simple8.png</Source>
+      <Name>Particles\simple8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\Portfolio\Particles\Particles The Next Generation\Particles The Next Generation\bin\x86\Debug\Content\Particles\simple8.xnb</Output>
+      <Time>2014-04-21T09:21:40.2173446+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Particles\simple9.png</Source>
+      <Name>Particles\simple9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\Portfolio\Particles\Particles The Next Generation\Particles The Next Generation\bin\x86\Debug\Content\Particles\simple9.xnb</Output>
+      <Time>2014-04-21T09:21:40.2183447+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\SubMenus\Wind\wind_deselected.png</Source>
+      <Name>Menu\SubMenus\Wind\wind_deselected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\Portfolio\Particles\Particles The Next Generation\Particles The Next Generation\bin\x86\Debug\Content\Menu\SubMenus\Wind\wind_deselected.xnb</Output>
+      <Time>2014-04-21T09:21:40.1323397+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\SubMenus\Wind\wind_selected.png</Source>
+      <Name>Menu\SubMenus\Wind\wind_selected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\Portfolio\Particles\Particles The Next Generation\Particles The Next Generation\bin\x86\Debug\Content\Menu\SubMenus\Wind\wind_selected.xnb</Output>
+      <Time>2014-04-21T09:21:40.1353399+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Items\BackButton\back_deselected.png</Source>
+      <Name>Menu\Items\BackButton\back_deselected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\Portfolio\Particles\Particles The Next Generation\Particles The Next Generation\bin\x86\Debug\Content\Menu\Items\BackButton\back_deselected.xnb</Output>
+      <Time>2014-04-21T09:21:40.1093384+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Items\BackButton\back_selected.png</Source>
+      <Name>Menu\Items\BackButton\back_selected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\Portfolio\Particles\Particles The Next Generation\Particles The Next Generation\bin\x86\Debug\Content\Menu\Items\BackButton\back_selected.xnb</Output>
+      <Time>2014-04-21T09:21:40.1113385+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\SubMenus\Wind\wind_title.png</Source>
+      <Name>Menu\SubMenus\Wind\wind_title</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\Portfolio\Particles\Particles The Next Generation\Particles The Next Generation\bin\x86\Debug\Content\Menu\SubMenus\Wind\wind_title.xnb</Output>
+      <Time>2014-04-21T09:21:40.1333398+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Items\Windinput\checkbox_deselected.png</Source>
+      <Name>Menu\Items\Windinput\checkbox_deselected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\Portfolio\Particles\Particles The Next Generation\Particles The Next Generation\bin\x86\Debug\Content\Menu\Items\Windinput\checkbox_deselected.xnb</Output>
+      <Time>2014-04-21T09:21:40.0533352+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Items\Windinput\checkbox_selected.png</Source>
+      <Name>Menu\Items\Windinput\checkbox_selected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\Portfolio\Particles\Particles The Next Generation\Particles The Next Generation\bin\x86\Debug\Content\Menu\Items\Windinput\checkbox_selected.xnb</Output>
+      <Time>2014-04-21T09:21:40.0483349+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Items\PosDeviation\posdev_deselected.png</Source>
+      <Name>Menu\Items\PosDeviation\posdev_deselected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\Portfolio\Particles\Particles The Next Generation\Particles The Next Generation\bin\x86\Debug\Content\Menu\Items\PosDeviation\posdev_deselected.xnb</Output>
+      <Time>2014-04-21T09:21:40.0643358+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Items\PosDeviation\posdev_marker.png</Source>
+      <Name>Menu\Items\PosDeviation\posdev_marker</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\Portfolio\Particles\Particles The Next Generation\Particles The Next Generation\bin\x86\Debug\Content\Menu\Items\PosDeviation\posdev_marker.xnb</Output>
+      <Time>2014-04-21T09:21:40.066336+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Items\PosDeviation\posdev_selected.png</Source>
+      <Name>Menu\Items\PosDeviation\posdev_selected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\Portfolio\Particles\Particles The Next Generation\Particles The Next Generation\bin\x86\Debug\Content\Menu\Items\PosDeviation\posdev_selected.xnb</Output>
+      <Time>2014-04-21T09:21:40.067336+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\SubMenus\PosDeviation\posdev_deselected.png</Source>
+      <Name>Menu\SubMenus\PosDeviation\posdev_deselected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\Portfolio\Particles\Particles The Next Generation\Particles The Next Generation\bin\x86\Debug\Content\Menu\SubMenus\PosDeviation\posdev_deselected.xnb</Output>
+      <Time>2014-04-21T09:21:40.1503408+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\SubMenus\PosDeviation\posdev_selected.png</Source>
+      <Name>Menu\SubMenus\PosDeviation\posdev_selected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\Portfolio\Particles\Particles The Next Generation\Particles The Next Generation\bin\x86\Debug\Content\Menu\SubMenus\PosDeviation\posdev_selected.xnb</Output>
+      <Time>2014-04-21T09:21:40.1533409+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\SubMenus\PosDeviation\posdev_title.png</Source>
+      <Name>Menu\SubMenus\PosDeviation\posdev_title</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\Portfolio\Particles\Particles The Next Generation\Particles The Next Generation\bin\x86\Debug\Content\Menu\SubMenus\PosDeviation\posdev_title.xnb</Output>
+      <Time>2014-04-21T09:21:40.1513408+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Doodats\vortex.png</Source>
+      <Name>Doodats\vortex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\Portfolio\Particles\Particles The Next Generation\Particles The Next Generation\bin\x86\Debug\Content\Doodats\vortex.xnb</Output>
+      <Time>2014-04-21T09:21:40.2643473+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Items\plaindeselected.png</Source>
+      <Name>Menu\Items\plaindeselected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\Portfolio\Particles\Particles The Next Generation\Particles The Next Generation\bin\x86\Debug\Content\Menu\Items\plaindeselected.xnb</Output>
+      <Time>2014-04-21T09:21:40.1053382+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Items\plainselected.png</Source>
+      <Name>Menu\Items\plainselected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\Portfolio\Particles\Particles The Next Generation\Particles The Next Generation\bin\x86\Debug\Content\Menu\Items\plainselected.xnb</Output>
+      <Time>2014-04-21T09:21:40.0473349+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\SubMenus\Gravity\gravity_deselected.png</Source>
+      <Name>Menu\SubMenus\Gravity\gravity_deselected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\Portfolio\Particles\Particles The Next Generation\Particles The Next Generation\bin\x86\Debug\Content\Menu\SubMenus\Gravity\gravity_deselected.xnb</Output>
+      <Time>2014-04-21T09:21:40.1683418+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\SubMenus\Gravity\gravity_selected.png</Source>
+      <Name>Menu\SubMenus\Gravity\gravity_selected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\Portfolio\Particles\Particles The Next Generation\Particles The Next Generation\bin\x86\Debug\Content\Menu\SubMenus\Gravity\gravity_selected.xnb</Output>
+      <Time>2014-04-21T09:21:40.1663417+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\SubMenus\Gravity\gravity_title.png</Source>
+      <Name>Menu\SubMenus\Gravity\gravity_title</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\Portfolio\Particles\Particles The Next Generation\Particles The Next Generation\bin\x86\Debug\Content\Menu\SubMenus\Gravity\gravity_title.xnb</Output>
+      <Time>2014-04-21T09:21:40.1693418+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Items\Gravity\gravitystrength_deselected.png</Source>
+      <Name>Menu\Items\Gravity\gravitystrength_deselected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\Portfolio\Particles\Particles The Next Generation\Particles The Next Generation\bin\x86\Debug\Content\Menu\Items\Gravity\gravitystrength_deselected.xnb</Output>
+      <Time>2014-04-21T09:21:40.0893373+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Items\Gravity\gravitystrength_marker.png</Source>
+      <Name>Menu\Items\Gravity\gravitystrength_marker</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\Portfolio\Particles\Particles The Next Generation\Particles The Next Generation\bin\x86\Debug\Content\Menu\Items\Gravity\gravitystrength_marker.xnb</Output>
+      <Time>2014-04-21T09:21:40.0913374+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Items\Gravity\gravitystrength_selected.png</Source>
+      <Name>Menu\Items\Gravity\gravitystrength_selected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\Portfolio\Particles\Particles The Next Generation\Particles The Next Generation\bin\x86\Debug\Content\Menu\Items\Gravity\gravitystrength_selected.xnb</Output>
+      <Time>2014-04-21T09:21:40.085337+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Items\Gravity\checkbox_deselected.png</Source>
+      <Name>Menu\Items\Gravity\checkbox_deselected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\Portfolio\Particles\Particles The Next Generation\Particles The Next Generation\bin\x86\Debug\Content\Menu\Items\Gravity\checkbox_deselected.xnb</Output>
+      <Time>2014-04-21T09:21:40.0923374+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Items\Gravity\checkbox_selected.png</Source>
+      <Name>Menu\Items\Gravity\checkbox_selected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\Portfolio\Particles\Particles The Next Generation\Particles The Next Generation\bin\x86\Debug\Content\Menu\Items\Gravity\checkbox_selected.xnb</Output>
+      <Time>2014-04-21T09:21:40.0873372+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Doodats\simplebox.png</Source>
+      <Name>Doodats\simplebox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\Portfolio\Particles\Particles The Next Generation\Particles The Next Generation\bin\x86\Debug\Content\Doodats\simplebox.xnb</Output>
+      <Time>2014-04-21T09:21:40.2613471+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Particles\target1.jpg</Source>
+      <Name>Particles\target1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\Portfolio\Particles\Particles The Next Generation\Particles The Next Generation\bin\x86\Debug\Content\Particles\target1.xnb</Output>
+      <Time>2014-04-21T09:21:40.2203448+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Doodats\smallbox.png</Source>
+      <Name>Doodats\smallbox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\Portfolio\Particles\Particles The Next Generation\Particles The Next Generation\bin\x86\Debug\Content\Doodats\smallbox.xnb</Output>
+      <Time>2014-04-21T09:21:40.259347+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Items\pixel.png</Source>
+      <Name>Menu\Items\pixel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\Portfolio\Particles\Particles The Next Generation\Particles The Next Generation\bin\x86\Debug\Content\Menu\Items\pixel.xnb</Output>
+      <Time>2014-04-21T09:21:40.084337+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\body.png</Source>
+      <Name>Player\body</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\Portfolio\Particles\Particles The Next Generation\Particles The Next Generation\bin\x86\Debug\Content\Player\body.xnb</Output>
+      <Time>2014-04-21T09:21:40.2373457+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\crosshair.png</Source>
+      <Name>Player\crosshair</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\Portfolio\Particles\Particles The Next Generation\Particles The Next Generation\bin\x86\Debug\Content\Player\crosshair.xnb</Output>
+      <Time>2014-04-21T09:21:40.2393459+02:00</Time>
+    </Item>
+    <Item>
+      <Source>equalizer.png</Source>
+      <Name>equalizer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\Portfolio\Particles\Particles The Next Generation\Particles The Next Generation\bin\x86\Debug\Content\equalizer.xnb</Output>
+      <Time>2014-04-21T09:21:40.207344+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Font_Standard.spritefont</Source>
+      <Name>Fonts\Font_Standard</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\Portfolio\Particles\Particles The Next Generation\Particles The Next Generation\bin\x86\Debug\Content\Fonts\Font_Standard.xnb</Output>
+      <Time>2014-04-21T09:21:40.2293453+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>B:\Portfolio\Particles\Particles The Next Generation\Particles The Next GenerationContent\</RootDirectory>
+      <LoggerRootDirectory>B:\Portfolio\Particles\Particles The Next Generation\Particles The Next Generation\</LoggerRootDirectory>
+      <IntermediateDirectory>B:\Portfolio\Particles\Particles The Next Generation\Particles The Next GenerationContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>B:\Portfolio\Particles\Particles The Next Generation\Particles The Next Generation\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-12-23T12:59:54.017122+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

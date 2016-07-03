@@ -1,0 +1,10 @@
+Maxparticles: 5000
+Spawndelay: 0,0001
+Mouseradius: 100
+Mousemultiplier: 0
+Gravityx: 0
+Gravityy: 1
+GravityStrength: 98,81
+Collisions: false
+well 400 500 100 10000
+vortex 500 300 100 10000 true 87 5 200

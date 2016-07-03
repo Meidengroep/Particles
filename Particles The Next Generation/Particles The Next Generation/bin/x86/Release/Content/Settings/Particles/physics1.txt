@@ -1,0 +1,8 @@
+Mass: 10
+Ttl: 120
+Scale: 1
+CollisionRadiusFraction: 6
+Bouncedamping: 0,9
+Grounddamping: 0,9
+Collisiondamping: 0,9
+Frictiondamping: 0,99

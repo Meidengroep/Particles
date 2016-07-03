@@ -1,0 +1,44 @@
+E:\School\ED1\ED Project\Audio Analyzing CsGL Tool\bin\Debug\Audio Analyzing CsGL Tool.exe
+E:\School\ED1\ED Project\Audio Analyzing CsGL Tool\bin\Debug\Audio Analyzing CsGL Tool.pdb
+E:\School\ED1\ED Project\Audio Analyzing CsGL Tool\bin\Debug\Tao.FreeGlut.dll
+E:\School\ED1\ED Project\Audio Analyzing CsGL Tool\bin\Debug\Tao.OpenGl.dll
+E:\School\ED1\ED Project\Audio Analyzing CsGL Tool\bin\Debug\Tao.Platform.Windows.dll
+E:\School\ED1\ED Project\Audio Analyzing CsGL Tool\obj\Debug\ResolveAssemblyReference.cache
+E:\School\ED1\ED Project\Audio Analyzing CsGL Tool\obj\Debug\Audio_Analyzing_CsGL_Tool.MainForm.resources
+E:\School\ED1\ED Project\Audio Analyzing CsGL Tool\obj\Debug\Audio_Analyzing_CsGL_Tool.Properties.Resources.resources
+E:\School\ED1\ED Project\Audio Analyzing CsGL Tool\obj\Debug\Audio Analyzing CsGL Tool.csproj.GenerateResource.Cache
+E:\School\ED1\ED Project\Audio Analyzing CsGL Tool\obj\Debug\Audio Analyzing CsGL Tool.exe
+E:\School\ED1\ED Project\Audio Analyzing CsGL Tool\obj\Debug\Audio Analyzing CsGL Tool.pdb
+E:\School\ED2\ED Project\Source\Audio Analyzing CsGL Tool\bin\Debug\Audio Analyzing CsGL Tool.exe
+E:\School\ED2\ED Project\Source\Audio Analyzing CsGL Tool\bin\Debug\Audio Analyzing CsGL Tool.pdb
+E:\School\ED2\ED Project\Source\Audio Analyzing CsGL Tool\bin\Debug\Tao.FreeGlut.dll
+E:\School\ED2\ED Project\Source\Audio Analyzing CsGL Tool\bin\Debug\Tao.OpenGl.dll
+E:\School\ED2\ED Project\Source\Audio Analyzing CsGL Tool\bin\Debug\Tao.Platform.Windows.dll
+E:\School\ED2\ED Project\Source\Audio Analyzing CsGL Tool\obj\Debug\ResolveAssemblyReference.cache
+E:\School\ED2\ED Project\Source\Audio Analyzing CsGL Tool\obj\Debug\Audio_Analyzing_CsGL_Tool.MainForm.resources
+E:\School\ED2\ED Project\Source\Audio Analyzing CsGL Tool\obj\Debug\Audio_Analyzing_CsGL_Tool.Properties.Resources.resources
+E:\School\ED2\ED Project\Source\Audio Analyzing CsGL Tool\obj\Debug\Audio Analyzing CsGL Tool.csproj.GenerateResource.Cache
+E:\School\ED2\ED Project\Source\Audio Analyzing CsGL Tool\obj\Debug\Audio Analyzing CsGL Tool.exe
+E:\School\ED2\ED Project\Source\Audio Analyzing CsGL Tool\obj\Debug\Audio Analyzing CsGL Tool.pdb
+C:\Documents and Settings\Samuel\Desktop\School\ED2\ED Project\Source\Audio Analyzing CsGL Tool\bin\Debug\Audio Analyzing CsGL Tool.exe
+C:\Documents and Settings\Samuel\Desktop\School\ED2\ED Project\Source\Audio Analyzing CsGL Tool\bin\Debug\Audio Analyzing CsGL Tool.pdb
+C:\Documents and Settings\Samuel\Desktop\School\ED2\ED Project\Source\Audio Analyzing CsGL Tool\bin\Debug\Tao.FreeGlut.dll
+C:\Documents and Settings\Samuel\Desktop\School\ED2\ED Project\Source\Audio Analyzing CsGL Tool\bin\Debug\Tao.OpenGl.dll
+C:\Documents and Settings\Samuel\Desktop\School\ED2\ED Project\Source\Audio Analyzing CsGL Tool\bin\Debug\Tao.Platform.Windows.dll
+C:\Documents and Settings\Samuel\Desktop\School\ED2\ED Project\Source\Audio Analyzing CsGL Tool\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Samuel\Desktop\School\ED2\ED Project\Source\Audio Analyzing CsGL Tool\obj\Debug\Audio_Analyzing_CsGL_Tool.MainForm.resources
+C:\Documents and Settings\Samuel\Desktop\School\ED2\ED Project\Source\Audio Analyzing CsGL Tool\obj\Debug\Audio_Analyzing_CsGL_Tool.Properties.Resources.resources
+C:\Documents and Settings\Samuel\Desktop\School\ED2\ED Project\Source\Audio Analyzing CsGL Tool\obj\Debug\Audio Analyzing CsGL Tool.csproj.GenerateResource.Cache
+C:\Documents and Settings\Samuel\Desktop\School\ED2\ED Project\Source\Audio Analyzing CsGL Tool\obj\Debug\Audio Analyzing CsGL Tool.exe
+C:\Documents and Settings\Samuel\Desktop\School\ED2\ED Project\Source\Audio Analyzing CsGL Tool\obj\Debug\Audio Analyzing CsGL Tool.pdb
+C:\Users\sbatista\Downloads\Audio Analyzing Tool Source_Samuel Batista\Source\Audio Analyzing CsGL Tool\obj\Debug\Audio Analyzing CsGL Tool.exe
+C:\Users\sbatista\Downloads\Audio Analyzing Tool Source_Samuel Batista\Source\Audio Analyzing CsGL Tool\obj\Debug\Audio Analyzing CsGL Tool.pdb
+C:\Users\sbatista\Downloads\Audio Analyzing Tool Source_Samuel Batista\Source\Audio Analyzing CsGL Tool\bin\Debug\Audio Analyzing CsGL Tool.exe
+C:\Users\sbatista\Downloads\Audio Analyzing Tool Source_Samuel Batista\Source\Audio Analyzing CsGL Tool\bin\Debug\Audio Analyzing CsGL Tool.pdb
+C:\Users\sbatista\Downloads\Audio Analyzing Tool Source_Samuel Batista\Source\Audio Analyzing CsGL Tool\bin\Debug\Tao.FreeGlut.dll
+C:\Users\sbatista\Downloads\Audio Analyzing Tool Source_Samuel Batista\Source\Audio Analyzing CsGL Tool\bin\Debug\Tao.OpenGl.dll
+C:\Users\sbatista\Downloads\Audio Analyzing Tool Source_Samuel Batista\Source\Audio Analyzing CsGL Tool\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\sbatista\Downloads\Audio Analyzing Tool Source_Samuel Batista\Source\Audio Analyzing CsGL Tool\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sbatista\Downloads\Audio Analyzing Tool Source_Samuel Batista\Source\Audio Analyzing CsGL Tool\obj\Debug\Audio_Analyzing_CsGL_Tool.MainForm.resources
+C:\Users\sbatista\Downloads\Audio Analyzing Tool Source_Samuel Batista\Source\Audio Analyzing CsGL Tool\obj\Debug\Audio_Analyzing_CsGL_Tool.Properties.Resources.resources
+C:\Users\sbatista\Downloads\Audio Analyzing Tool Source_Samuel Batista\Source\Audio Analyzing CsGL Tool\obj\Debug\Audio Analyzing CsGL Tool.csproj.GenerateResource.Cache

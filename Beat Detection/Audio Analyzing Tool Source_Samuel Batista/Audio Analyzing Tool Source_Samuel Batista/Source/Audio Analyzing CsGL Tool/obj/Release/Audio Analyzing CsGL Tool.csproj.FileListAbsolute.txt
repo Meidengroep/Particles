@@ -1,0 +1,56 @@
+C:\Documents and Settings\Samuel\Desktop\School\ED2\ED Project\Source\Audio Analyzing CsGL Tool\bin\Release\Audio Analyzing CsGL Tool.exe
+C:\Documents and Settings\Samuel\Desktop\School\ED2\ED Project\Source\Audio Analyzing CsGL Tool\bin\Release\Audio Analyzing CsGL Tool.pdb
+C:\Documents and Settings\Samuel\Desktop\School\ED2\ED Project\Source\Audio Analyzing CsGL Tool\bin\Release\Tao.FreeGlut.dll
+C:\Documents and Settings\Samuel\Desktop\School\ED2\ED Project\Source\Audio Analyzing CsGL Tool\bin\Release\Tao.OpenGl.dll
+C:\Documents and Settings\Samuel\Desktop\School\ED2\ED Project\Source\Audio Analyzing CsGL Tool\bin\Release\Tao.Platform.Windows.dll
+C:\Documents and Settings\Samuel\Desktop\School\ED2\ED Project\Source\Audio Analyzing CsGL Tool\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Samuel\Desktop\School\ED2\ED Project\Source\Audio Analyzing CsGL Tool\obj\Release\Audio_Analyzing_CsGL_Tool.MainForm.resources
+C:\Documents and Settings\Samuel\Desktop\School\ED2\ED Project\Source\Audio Analyzing CsGL Tool\obj\Release\Audio_Analyzing_CsGL_Tool.Properties.Resources.resources
+C:\Documents and Settings\Samuel\Desktop\School\ED2\ED Project\Source\Audio Analyzing CsGL Tool\obj\Release\Audio Analyzing CsGL Tool.csproj.GenerateResource.Cache
+C:\Documents and Settings\Samuel\Desktop\School\ED2\ED Project\Source\Audio Analyzing CsGL Tool\obj\Release\Audio Analyzing CsGL Tool.exe
+C:\Documents and Settings\Samuel\Desktop\School\ED2\ED Project\Source\Audio Analyzing CsGL Tool\obj\Release\Audio Analyzing CsGL Tool.pdb
+C:\Users\sbatista\Downloads\Audio Analyzing Tool Source_Samuel Batista\Source\Audio Analyzing CsGL Tool\obj\Release\Audio Analyzing CsGL Tool.exe
+C:\Users\sbatista\Downloads\Audio Analyzing Tool Source_Samuel Batista\Source\Audio Analyzing CsGL Tool\obj\Release\Audio Analyzing CsGL Tool.pdb
+C:\Users\sbatista\Downloads\Audio Analyzing Tool Source_Samuel Batista\Source\Audio Analyzing CsGL Tool\bin\Release\Audio Analyzing CsGL Tool.exe
+C:\Users\sbatista\Downloads\Audio Analyzing Tool Source_Samuel Batista\Source\Audio Analyzing CsGL Tool\bin\Release\Audio Analyzing CsGL Tool.pdb
+C:\Users\sbatista\Downloads\Audio Analyzing Tool Source_Samuel Batista\Source\Audio Analyzing CsGL Tool\bin\Release\Tao.FreeGlut.dll
+C:\Users\sbatista\Downloads\Audio Analyzing Tool Source_Samuel Batista\Source\Audio Analyzing CsGL Tool\bin\Release\Tao.OpenGl.dll
+C:\Users\sbatista\Downloads\Audio Analyzing Tool Source_Samuel Batista\Source\Audio Analyzing CsGL Tool\bin\Release\Tao.Platform.Windows.dll
+C:\Users\sbatista\Downloads\Audio Analyzing Tool Source_Samuel Batista\Source\Audio Analyzing CsGL Tool\obj\Release\ResolveAssemblyReference.cache
+C:\Users\sbatista\Downloads\Audio Analyzing Tool Source_Samuel Batista\Source\Audio Analyzing CsGL Tool\obj\Release\Audio_Analyzing_CsGL_Tool.MainForm.resources
+C:\Users\sbatista\Downloads\Audio Analyzing Tool Source_Samuel Batista\Source\Audio Analyzing CsGL Tool\obj\Release\Audio_Analyzing_CsGL_Tool.Properties.Resources.resources
+C:\Users\sbatista\Downloads\Audio Analyzing Tool Source_Samuel Batista\Source\Audio Analyzing CsGL Tool\obj\Release\Audio Analyzing CsGL Tool.csproj.GenerateResource.Cache
+C:\Users\Joey Deiman\Desktop\Audio Analyzing Tool Source_Samuel Batista\Audio Analyzing Tool Source_Samuel Batista\Source\Audio Analyzing CsGL Tool\obj\Release\Audio Analyzing CsGL Tool.exe
+C:\Users\Joey Deiman\Desktop\Audio Analyzing Tool Source_Samuel Batista\Audio Analyzing Tool Source_Samuel Batista\Source\Audio Analyzing CsGL Tool\obj\Release\Audio Analyzing CsGL Tool.pdb
+C:\Users\Joey Deiman\Desktop\Audio Analyzing Tool Source_Samuel Batista\Audio Analyzing Tool Source_Samuel Batista\Source\Audio Analyzing CsGL Tool\bin\Release\Audio Analyzing CsGL Tool.exe
+C:\Users\Joey Deiman\Desktop\Audio Analyzing Tool Source_Samuel Batista\Audio Analyzing Tool Source_Samuel Batista\Source\Audio Analyzing CsGL Tool\bin\Release\Audio Analyzing CsGL Tool.pdb
+C:\Users\Joey Deiman\Desktop\Audio Analyzing Tool Source_Samuel Batista\Audio Analyzing Tool Source_Samuel Batista\Source\Audio Analyzing CsGL Tool\bin\Release\Tao.FreeGlut.dll
+C:\Users\Joey Deiman\Desktop\Audio Analyzing Tool Source_Samuel Batista\Audio Analyzing Tool Source_Samuel Batista\Source\Audio Analyzing CsGL Tool\bin\Release\Tao.OpenGl.dll
+C:\Users\Joey Deiman\Desktop\Audio Analyzing Tool Source_Samuel Batista\Audio Analyzing Tool Source_Samuel Batista\Source\Audio Analyzing CsGL Tool\bin\Release\Tao.Platform.Windows.dll
+C:\Users\Joey Deiman\Desktop\Audio Analyzing Tool Source_Samuel Batista\Audio Analyzing Tool Source_Samuel Batista\Source\Audio Analyzing CsGL Tool\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Joey Deiman\Desktop\Audio Analyzing Tool Source_Samuel Batista\Audio Analyzing Tool Source_Samuel Batista\Source\Audio Analyzing CsGL Tool\obj\Release\Audio_Analyzing_CsGL_Tool.MainForm.resources
+C:\Users\Joey Deiman\Desktop\Audio Analyzing Tool Source_Samuel Batista\Audio Analyzing Tool Source_Samuel Batista\Source\Audio Analyzing CsGL Tool\obj\Release\Audio_Analyzing_CsGL_Tool.Properties.Resources.resources
+C:\Users\Joey Deiman\Desktop\Audio Analyzing Tool Source_Samuel Batista\Audio Analyzing Tool Source_Samuel Batista\Source\Audio Analyzing CsGL Tool\obj\Release\Audio Analyzing CsGL Tool.csproj.GenerateResource.Cache
+C:\Particles\Beat Detection\Audio Analyzing Tool Source_Samuel Batista\Audio Analyzing Tool Source_Samuel Batista\Source\Audio Analyzing CsGL Tool\obj\Release\Audio Analyzing CsGL Tool.exe
+C:\Particles\Beat Detection\Audio Analyzing Tool Source_Samuel Batista\Audio Analyzing Tool Source_Samuel Batista\Source\Audio Analyzing CsGL Tool\obj\Release\Audio Analyzing CsGL Tool.pdb
+C:\Particles\Beat Detection\Audio Analyzing Tool Source_Samuel Batista\Audio Analyzing Tool Source_Samuel Batista\Source\Audio Analyzing CsGL Tool\bin\Release\Audio Analyzing CsGL Tool.exe
+C:\Particles\Beat Detection\Audio Analyzing Tool Source_Samuel Batista\Audio Analyzing Tool Source_Samuel Batista\Source\Audio Analyzing CsGL Tool\bin\Release\Audio Analyzing CsGL Tool.pdb
+C:\Particles\Beat Detection\Audio Analyzing Tool Source_Samuel Batista\Audio Analyzing Tool Source_Samuel Batista\Source\Audio Analyzing CsGL Tool\bin\Release\Tao.FreeGlut.dll
+C:\Particles\Beat Detection\Audio Analyzing Tool Source_Samuel Batista\Audio Analyzing Tool Source_Samuel Batista\Source\Audio Analyzing CsGL Tool\bin\Release\Tao.OpenGl.dll
+C:\Particles\Beat Detection\Audio Analyzing Tool Source_Samuel Batista\Audio Analyzing Tool Source_Samuel Batista\Source\Audio Analyzing CsGL Tool\bin\Release\Tao.Platform.Windows.dll
+C:\Particles\Beat Detection\Audio Analyzing Tool Source_Samuel Batista\Audio Analyzing Tool Source_Samuel Batista\Source\Audio Analyzing CsGL Tool\obj\Release\ResolveAssemblyReference.cache
+C:\Particles\Beat Detection\Audio Analyzing Tool Source_Samuel Batista\Audio Analyzing Tool Source_Samuel Batista\Source\Audio Analyzing CsGL Tool\obj\Release\Audio_Analyzing_CsGL_Tool.MainForm.resources
+C:\Particles\Beat Detection\Audio Analyzing Tool Source_Samuel Batista\Audio Analyzing Tool Source_Samuel Batista\Source\Audio Analyzing CsGL Tool\obj\Release\Audio_Analyzing_CsGL_Tool.Properties.Resources.resources
+C:\Particles\Beat Detection\Audio Analyzing Tool Source_Samuel Batista\Audio Analyzing Tool Source_Samuel Batista\Source\Audio Analyzing CsGL Tool\obj\Release\Audio Analyzing CsGL Tool.csproj.GenerateResource.Cache
+G:\Particles\Beat Detection\Audio Analyzing Tool Source_Samuel Batista\Audio Analyzing Tool Source_Samuel Batista\Source\Audio Analyzing CsGL Tool\obj\Release\Audio Analyzing CsGL Tool.exe
+G:\Particles\Beat Detection\Audio Analyzing Tool Source_Samuel Batista\Audio Analyzing Tool Source_Samuel Batista\Source\Audio Analyzing CsGL Tool\obj\Release\Audio Analyzing CsGL Tool.pdb
+G:\Particles\Beat Detection\Audio Analyzing Tool Source_Samuel Batista\Audio Analyzing Tool Source_Samuel Batista\Source\Audio Analyzing CsGL Tool\bin\Release\Audio Analyzing CsGL Tool.exe
+G:\Particles\Beat Detection\Audio Analyzing Tool Source_Samuel Batista\Audio Analyzing Tool Source_Samuel Batista\Source\Audio Analyzing CsGL Tool\bin\Release\Audio Analyzing CsGL Tool.pdb
+G:\Particles\Beat Detection\Audio Analyzing Tool Source_Samuel Batista\Audio Analyzing Tool Source_Samuel Batista\Source\Audio Analyzing CsGL Tool\bin\Release\Tao.FreeGlut.dll
+G:\Particles\Beat Detection\Audio Analyzing Tool Source_Samuel Batista\Audio Analyzing Tool Source_Samuel Batista\Source\Audio Analyzing CsGL Tool\bin\Release\Tao.OpenGl.dll
+G:\Particles\Beat Detection\Audio Analyzing Tool Source_Samuel Batista\Audio Analyzing Tool Source_Samuel Batista\Source\Audio Analyzing CsGL Tool\bin\Release\Tao.Platform.Windows.dll
+G:\Particles\Beat Detection\Audio Analyzing Tool Source_Samuel Batista\Audio Analyzing Tool Source_Samuel Batista\Source\Audio Analyzing CsGL Tool\obj\Release\ResolveAssemblyReference.cache
+G:\Particles\Beat Detection\Audio Analyzing Tool Source_Samuel Batista\Audio Analyzing Tool Source_Samuel Batista\Source\Audio Analyzing CsGL Tool\obj\Release\Audio_Analyzing_CsGL_Tool.MainForm.resources
+G:\Particles\Beat Detection\Audio Analyzing Tool Source_Samuel Batista\Audio Analyzing Tool Source_Samuel Batista\Source\Audio Analyzing CsGL Tool\obj\Release\Audio_Analyzing_CsGL_Tool.Properties.Resources.resources
+G:\Particles\Beat Detection\Audio Analyzing Tool Source_Samuel Batista\Audio Analyzing Tool Source_Samuel Batista\Source\Audio Analyzing CsGL Tool\obj\Release\ResGen.read.1.tlog
+G:\Particles\Beat Detection\Audio Analyzing Tool Source_Samuel Batista\Audio Analyzing Tool Source_Samuel Batista\Source\Audio Analyzing CsGL Tool\obj\Release\ResGen.write.1.tlog
